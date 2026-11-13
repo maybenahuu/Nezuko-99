@@ -1,5 +1,5 @@
 {
-	"author": ["MahMUD"],
+	"author": ["NaHid"],
 	"facebookAccount": {
 		"email": "",
 		"password": "",
@@ -19,7 +19,7 @@
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": ["61587218111370"],
+	"adminBot": ["61591523254564"],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
@@ -41,7 +41,7 @@
 	"timeZone": "Asia/Dhaka",
 	"credentials": {
 		"gmailAccount": {
-			"email": "itsehan208@gmail.com",
+			"email": "maybenahu514@gmail.com",
 			"clientId": "1021502973839-dargpljmbn9jtspsv9odndf3ehjkpghm.apps.googleusercontent.com",
 			"clientSecret": "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",
 			"refreshToken": "1//04an7sEWacfFbCgYIARAAGAQSNwF-L9IrSMcYxNsUH4oEQ-g1qmFCqWcLmKABoD5X3VGpdJFR_ADSuhnd_e_vAMOFnOBYzuG21R4",
